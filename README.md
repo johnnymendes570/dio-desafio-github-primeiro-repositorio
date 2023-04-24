@@ -11,7 +11,7 @@ Repositório criado para compartilhar meu progresso no curso de Java
 
 :ballot_box_with_check: Algoritmos básicos de código Java
 
-:ballot_box_with_check: Programação Orientada a Objetos 
+:ballot_box_with_check: Programação Orientada a Objetos com Java
 
 :ballot_box_with_check: Produtividade com Spring Framework
 
