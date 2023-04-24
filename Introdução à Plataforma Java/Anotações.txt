@@ -1,0 +1,11 @@
+Java Básico
+
+A linguagem Java é composta por um conjunto bem definido de funcionalidades (features) que são super recomendadas para você entusiasta em programação conhecer o máximo que puder.Java é uma linguagem de programação orientada a objetos de alto nível. Ela foi desenvolvida pela Sun Microsystems (que agora faz parte da Oracle Corporation) na década de 1990 e é usada para desenvolver aplicativos de desktop, aplicativos móveis, aplicativos da Web e muitos outros tipos de software.
+
+Java é conhecida por sua portabilidade, o que significa que o mesmo código pode ser executado em diferentes sistemas operacionais, desde que uma máquina virtual Java esteja instalada. Isso é possível graças à sua arquitetura "Write once, run anywhere" (Escreva uma vez, execute em qualquer lugar).
+
+Outra característica importante da linguagem Java é a segurança. Ela foi projetada para ser resistente a ataques de segurança e para impedir que os desenvolvedores escrevam código inseguro.
+
+Java é uma linguagem de programação baseada em classes e objetos, o que significa que o código é organizado em classes que representam objetos do mundo real. Os desenvolvedores podem criar suas próprias classes e objetos para resolver problemas específicos em seus aplicativos.
+
+Java também é conhecida por sua vasta biblioteca de classes, que tornam mais fácil e rápido desenvolver aplicativos, pois os desenvolvedores não precisam escrever todas as funções do zero.
